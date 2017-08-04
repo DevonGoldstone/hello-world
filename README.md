@@ -1,4 +1,4 @@
-# hello-world
-Just another repository
+# Scratch
+This is my attempt at a Scratch game
 
-I'm Devon, I'm trying to learn to code. That's because the world needs more code monkeys
+Simple
